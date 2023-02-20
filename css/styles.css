@@ -78,6 +78,7 @@ body {
 }
 
 .hero-btn {
+    cursor: pointer;
     font-family: inherit;
     font-weight: 500;
     align-items: center;
